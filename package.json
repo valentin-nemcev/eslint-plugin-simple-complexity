@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-simple-complexity",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Limit complexity by specifying maximum indent and maximum amount of lines in a function",
   "keywords": [
     "eslint",
